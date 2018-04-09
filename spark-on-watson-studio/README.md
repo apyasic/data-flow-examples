@@ -17,3 +17,5 @@ A tutorial in Python for loading Cloudant documents into Apache Spark, and savin
 A tutorial in Scala that leverages Spark Streaming to continuously load Cloudant documents into a Db2 table.
 
 - [Scala and Python code sample for transforming JSON array/object to Db2 data types](json-array-object-to-db2-data-type.md)
+
+- [Python code sample for saving nested JSON elements into separate Db2 tables](nested-json-to-table.md)
